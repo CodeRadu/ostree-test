@@ -20,7 +20,7 @@
           "keyPath": "/etc/pki/rpm-gpg/RPM-GPG-KEY-redhat-release"
         }
       ],
-      "registry.home.venovedo.ro": [
+      "ghcr.io/coderadu": [
         {
           "type": "sigstoreSigned",
           "keyPath": "/usr/etc/pki/containers/radu.pub",
