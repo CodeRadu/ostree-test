@@ -1,0 +1,9 @@
+{
+  "include": [
+    "btop",
+    "htop",
+    "nano",
+    "vim"
+  ],
+  "exclude": []
+}
